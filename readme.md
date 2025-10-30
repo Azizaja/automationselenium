@@ -33,8 +33,8 @@ Automation ini menggunakan kombinasi **Selenium WebDriver**, **Cucumber (BDD)**,
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/<username>/AgodaFlightAutomation.git
-cd AgodaFlightAutomation
+git clone https://github.com/<username>/automationselenium.git
+cd automationselenium
 ```
 
 ## 🔗Link Recording CI/CD
